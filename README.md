@@ -7,10 +7,8 @@ Karola Takacs, Tamas Stahl, Mariam Bazzi
 ​
 ### Project Report
 ​
-​
 ### KNIME Workflow
 Includes the ETL data pipeline and dashboard at the end
-​
 ​
 ### Presentation
 ​
